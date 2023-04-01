@@ -14,7 +14,7 @@ pip install beautifulsoup4
 pip install prompt_toolkit
 ```
 
-3. Please don't hammer the website this program scrapes info from into oblivion.<br>
+3. If you decide to fork/change this program, please don't hammer the website this program scrapes info from into oblivion.<br>
 The information doesn't update all that often anyways.<br>
 
 # Longer Descriptions:<br>
