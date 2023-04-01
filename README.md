@@ -2,7 +2,7 @@
 Produces CSV & JSON files for US lake level info.<br>
 
 # Instructions:<br>
-1. The source code for this project can be found in `lake_level.py` above.
+1. The source code for this project can be found in `lake_levels.py` above.
 
 2. Please check the required libraries/packages before running. <br>
 All of them should be native to Python except for `beautifulsoup4` & `prompt_toolkit`.<br>
